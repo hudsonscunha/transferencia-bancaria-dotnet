@@ -8,4 +8,4 @@ Um algoritmo simples de transferência bancária para exercer o pensamento orien
 
 
 
-<center><img align="center" src="./assets/app.png" alt="DIO" width="70" height="70" style="max-width: 100%;" /> <img align="center" src="./assets/dotnet.png" alt="DIO" style="zoom:15%;" /></center> 
+<center><img align="center" src="./assets/app.png" alt="DIO" width="70" height="70" style="max-width: 100%;" /> <img align="center" src="./assets/dotnet.png" alt="DIO" width="70" height="70" style="max-width: 100%;" /></center> 
