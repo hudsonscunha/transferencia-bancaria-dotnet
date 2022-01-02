@@ -1,4 +1,4 @@
-﻿<img src="./assets/dio.svg" alt="DIO" width="100" height="100" style="max-width: 100%;" />
+﻿<img src="./assets/dio.svg" alt="DIO" width="300" height="300" style="max-width: 100%;" />
 
 <h1 align="center">Transferência bancária com .NET</h1>
 
