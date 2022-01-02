@@ -6,7 +6,7 @@
 
 Este projeto faz parte do **Bootcamp .NET Fundamentals** da [Digital Innovation One](https://digitalinnovation.one/).
 
-Um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Aprendido neste projeto: Pensar orientado a objetos, modelar o domínio, utilizar *enums*.
+Um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Explorado neste projeto: Pensar orientado a objetos, modelar o domínio, utilizar *enums*.
 
 ##
 
