@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dio.svg" alt="DIO" tittle="Digital Innovation One" width="500" height="500" style="margin: 0;">
+  <img src="./assets/dio.svg" alt="DIO" tittle="Digital Innovation One" width="500" height="500" style="margin: 0px;">
 </p>
 
 <h1 align="center">Transferência bancária com .NET</h1>
