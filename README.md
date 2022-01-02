@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dio.png" alt="DIO" tittle="Digital Innovation One" width="300" height="300">
+  <img src="./assets/dio.png" alt="DIO" tittle="Digital Innovation One">
 </p>
 
 <h1 align="center">Transferência bancária com .NET</h1>
@@ -10,4 +10,6 @@ Um algoritmo simples de transferência bancária para exercer o pensamento orien
 
 
 
-<img align="center" src="./assets/app.png" alt="DIO" width="70" height="70" style="max-width: 100%;" /><img align="center" src="./assets/dotnet.png" alt="DIO" width="70" height="70" style="max-width: 100%;" />
+<p align="center">
+  <img align="center" src="./assets/app.png" alt="DIO" width="70" height="70" style="max-width: 100%;" /><img align="center" src="./assets/dotnet.png" alt="DIO" width="70" height="70" style="max-width: 100%;" />
+</p>
